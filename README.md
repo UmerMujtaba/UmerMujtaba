@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @UmerMujtaba
 - 👀 I’m interested in Web development, game development
-- 🌱 I’m currently learning HTML5, CSS3 , OOP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me umermujtaba16@gmail.com
 
