@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @UmerMujtaba
-- 👀 I’m interested in Web development, game development
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web development and Mobile Application Development.
 - 📫 How to reach me umermujtaba16@gmail.com
 
 <!---
