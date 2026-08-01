@@ -1,14 +1,11 @@
 # 💫 About Me:
-- 👋 Hi, I’m @UmerMujtaba
+👋 Hi, I’m @UmerMujtaba
+
 Dedicated Software Engineer with 2+ years of experience in the mobile and web landscape. I specialize in building robust, cross-platform applications that prioritize performance and accessibility.
-
-
 
 I have a proven track record of taking complex requirements—such as secure, child-safe audio platforms and media-streaming interfaces—and turning them into live products on the stores. My technical toolkit includes hands-on experience with Firebase, and real-time API integrations.
 
 I pride myself on being an adaptable learner and a collaborative teammate. Beyond writing clean code, I focus on time management and problem-solving to ensure projects are delivered efficiently and at a high standard.
-
-
 
 Technical Focus: Cross-platform Mobile Development | Real-time SDKs | Scalable Web Solutions
 
